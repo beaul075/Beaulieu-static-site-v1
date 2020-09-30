@@ -1,0 +1,50 @@
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: black;
+}
+main {
+    background-color: white;
+}
+
+article {
+    background-color: #048863;
+    padding: 2%;
+    margin: 2% 2% 2% 2%;
+}
+
+footer {
+    width: 98%;
+    background-color: #1A6953;
+    color: white;
+    padding: 10px;
+}
+
+p {
+    color: white;
+    text-align: left;
+    line-height: 1.2;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+ul {
+    color: white
+}
+h2 {
+    color: white;
+}
+img {
+    border: 2px solid white;
+}
+body {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 16px;
+}
